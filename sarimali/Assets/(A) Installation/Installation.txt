@@ -1,0 +1,10 @@
+(1)
+(Installation)
+npm create vite@latest ./ -- --template react
+npm install
+npm run dev
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+(Packages)
+npm install three @react-three/fiber @react-three/drei maath react-parallax-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
